@@ -56,23 +56,23 @@ The analysis is based on the following operating volume:
 
 | Metric | Value |
 |---|---:|
-| Pieces sold per day | 72 |
-| Whole chickens sold per day | 18 |
+| Pieces sold per day | 216 |
+| Whole chickens sold per day | 54 |
 | Pieces per chicken | 4 |
 | Analysis period | 5 days |
-| Pieces sold in 5 days | 360 |
-| Whole chickens used in 5 days | 90 |
+| Pieces sold in 5 days | 1080 |
+| Whole chickens used in 5 days | 270 |
 | Selling price per piece | ₹120 |
 
 ### Five-Day Sales Volume
 
-72 pieces/day × 5 days = **360 pieces**
+216 pieces/day × 5 days = **1080 pieces**
 
 ### Five-Day Chicken Requirement
 
-18 chickens/day × 5 days = **90 chickens**
+54 chickens/day × 5 days = **270 chickens**
 
-The **360 pieces sold during the five-day period** are used as the allocation basis for calculating the variable cost per piece.
+The **1080 pieces sold during the five-day period** are used as the allocation basis for calculating the variable cost per piece.
 
 ---
 
@@ -104,21 +104,21 @@ For expenses recorded as a total for the five-day period, the cost per piece is 
 
 **Cost per Piece = Five-Day Expense / Total Pieces Sold**
 
-Since 360 pieces were sold:
+Since 1080 pieces were sold:
 
-**Cost per Piece = Five-Day Expense / 360**
+**Cost per Piece = Five-Day Expense / 1080**
 
 ### Example: Mayonnaise
 
-Five-day mayonnaise cost = **₹1,360**
+Five-day mayonnaise cost = **₹1,080**
 
-₹1,360 / 360 = **₹3.78 per piece**
+₹4,080 / 1080 = **₹3.78 per piece**
 
 The same methodology is used for other expenses incurred during the five-day operating period.
 
 For items where the cost is already known on a per-piece basis:
 
-**Five-Day Cost = Cost per Piece × 360**
+**Five-Day Cost = Cost per Piece × 1080**
 
 This creates a consistent basis for analyzing all variable expenses.
 
@@ -375,11 +375,11 @@ The cost optimization reduces the daily sales requirement needed to reach break-
 
 Current sales are approximately:
 
-**72 pieces per day**
+**216 pieces per day**
 
 Assuming 30 operating days:
 
-72 × 30 = **2,160 pieces per month**
+216 × 30 = **6,480 pieces per month**
 
 The Excel model compares the current sales volume against the required break-even volume.
 
